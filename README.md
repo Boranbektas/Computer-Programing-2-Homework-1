@@ -1,4 +1,4 @@
-# Homework-1
+# Computer Programing 2,Homework 1
 
 This is my second semesters first big coding project
 
